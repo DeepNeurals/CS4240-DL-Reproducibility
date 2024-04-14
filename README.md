@@ -1,5 +1,6 @@
 # CS4240-DL-Reproducibility Group 31
 This repository contains the code for the reproducability project of group 31. (Sea-Pix Gan paper)
+Link to the blogpost: https://hackmd.io/@NathanNascimento/rkoVXInJA
 
 ## Contributors
 - Théophile De Backer
