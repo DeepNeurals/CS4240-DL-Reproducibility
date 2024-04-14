@@ -1,4 +1,4 @@
-# CS4240-DL-Reproducibility
+# CS4240-DL-Reproducibility Group 9
 This repository contains the code for the reproducability project of group 9. (Sea-Pix Gan paper)
 
 ## Contributors
